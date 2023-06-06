@@ -43,11 +43,3 @@ The following functions are currently implemented:
 * tail
 * takeUntil
 * without
-* assertArraysEqualTest
-* assertEqualTest
-* assertObjectsEqualTest
-* eqArrayTest
-* eqObjectsTest
-* headTest
-* middleTest
-* tailTest
